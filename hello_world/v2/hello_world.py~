@@ -1,0 +1,7 @@
+
+helloWorld = "Hello World"
+maxIter = 10
+
+for i in range(maxIter):
+	print i+1, helloWorld
+
